@@ -1,4 +1,4 @@
-Hello! 👋  
+Hi there! I'm Shayan. 👋  
 I’m a full-stack developer, problem solver, and curious tinkerer.  
 I build high-performance web apps, wire up reliable backends, and keep things elegant and maintainable.
 
@@ -10,7 +10,7 @@ and dreaming up side-projects I may or may not finish 😅
   <tr>
     <td width="50%">
 
-      <pre><code class="language-javascript">
+      ```javascript
       export const profile = {
         name: "Your Name",
         role: "Full-Stack Developer",
@@ -27,12 +27,12 @@ and dreaming up side-projects I may or may not finish 😅
       };
 
       console.log(`Welcome to ${profile.name}'s GitHub!`);
-      </code></pre>
+      ```
 
   </td>
   <td width="50%">
 
-    <pre><code class="language-python">
+    ```python
     from dataclasses import dataclass
 
     @dataclass(frozen=True)
@@ -52,7 +52,7 @@ and dreaming up side-projects I may or may not finish 😅
 
     me = Profile()
     print(f"Hi, I'm {me.name} — welcome!")
-    </code></pre>
+    ```
 
     </td>
 

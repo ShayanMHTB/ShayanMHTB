@@ -1,60 +1,21 @@
-Hi there! I'm Shayan. 👋  
-I’m a full-stack developer, problem solver, and curious tinkerer.  
-I build high-performance web apps, wire up reliable backends, and keep things elegant and maintainable.
+Hi there! 👋  
+I’m Shayan — a full-stack developer with over 5 years of experience building everything from clean, responsive frontends to scalable, fault-tolerant backends.
 
-Outside the editor you’ll catch me tuning my dev setup, lifting, reading about the future of computing,  
-and dreaming up side-projects I may or may not finish 😅
+**Technologies I work with:**
 
-<!-- Two-column code showcase -->
-<table>
-  <tr>
-    <td width="50%">
+- **Backend:** Java (Spring Boot), Python (Django), JavaScript/TypeScript (NestJS), and more
+- **Frontend:** React, Angular, Vue
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Communication:** REST API, GraphQL
 
-      ```javascript
-      export const profile = {
-        name: "Your Name",
-        role: "Full-Stack Developer",
-        location: "Your City, Country",
-        currentlyAt: "Company",
-        website: "https://your-portfolio.com",
-        interests: ["AI/ML", "Web3", "IoT", "Quantum"],
-        funFacts: [
-          "Can debug with podcasts",
-          "Never broken prod (intentionally)",
-          "Quick fixes → mini refactors"
-        ],
-        pinned: ["repo-one", "repo-two", "repo-three"]
-      };
+**Fields I’m exploring & passionate about:**  
+AI, Machine Learning, Neural Networks, Web3, Quantum Computing, IoT, and pretty much anything that pushes the limits of technology.
 
-      console.log(`Welcome to ${profile.name}'s GitHub!`);
-      ```
+I’m a curious problem solver who loves clean architecture, elegant code, and tackling challenges head-on.  
+When I’m not coding, you’ll probably find me at the gym, reading about emerging tech, or diving into side projects that sometimes spiral into full-blown products.
 
-  </td>
-  <td width="50%">
+Fun facts:
 
-    ```python
-    from dataclasses import dataclass
-
-    @dataclass(frozen=True)
-    class Profile:
-        name: str = "Your Name"
-        role: str = "Full-Stack Developer"
-        location: str = "Your City, Country"
-        company: str = "Company"
-        website: str = "https://your-portfolio.com"
-        interests: tuple = ("AI/ML", "Web3", "IoT", "Quantum")
-        fun_facts: tuple = (
-            "Can debug with podcasts",
-            "Never broken prod (intentionally)",
-            "Quick fixes → mini refactors",
-        )
-        pinned: tuple = ("repo-one", "repo-two", "repo-three")
-
-    me = Profile()
-    print(f"Hi, I'm {me.name} — welcome!")
-    ```
-
-    </td>
-
-  </tr>
-</table>
+- I can debug faster with music in the background
+- I like building things just to see if they work
+- “Quick fixes” often turn into weekend-long coding sessions
